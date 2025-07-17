@@ -4,4 +4,3 @@
 // ekane  eta hosse wrong let person : [string , number] = [ 21 , "infan" ,]  err dibe 
 // let person : [string , number] = [  "infan" ,21 ,] // eta right way for truple
 let person = ["infan", 21,];
-console.log(person, "infan");
