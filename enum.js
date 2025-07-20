@@ -1,5 +1,6 @@
 "use strict";
 // Enum হলো একটি স্পেশাল টাইপ যা কিছু নির্দিষ্ট নামকরণকৃত মান সংরক্ষণ করে। যেমন দিক নির্দেশ করতে হলে Admin, Super_admin, Guest  ব্যবহার করতে পারি।
+// Enumeration
 var userRole;
 (function (userRole) {
     userRole["Admin"] = "admin";
